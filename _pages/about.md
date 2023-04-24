@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me - Yang Han"
-excerpt: "About me"
+title: "Yang Han"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,5 +12,5 @@ Yang Han is the last-year Master student in [TongJi University](https://www.tong
 
 News
 ======
-
-Nothings
+1. 2023/04: Graduate from Tongji University, Tongji University Outstanding Graduate.
+   
