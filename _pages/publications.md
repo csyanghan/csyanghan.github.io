@@ -11,13 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-======
-
 **[2023]**
 
-* <font color=#224b8d> Principal Graph Embedding Convolutional Recurrent Network for Traffic Flow Prediction </font>
-  
-  **Yang Han**, Shengjie Zhao, Hao Deng & Wenzhen Jia
-
+* Principal Graph Embedding Convolutional Recurrent Network for Traffic Flow Prediction  
+  **Yang Han**, Shengjie Zhao, Hao Deng & Wenzhen Jia  
   Applied Intelligence
-
