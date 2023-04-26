@@ -12,4 +12,4 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Shanghai University, 2020
-* M.S. in Software Engineer, TongJi University, 2013
+* M.S. in Software Engineer, TongJi University, 2023
