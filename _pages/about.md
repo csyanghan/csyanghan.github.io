@@ -14,7 +14,8 @@ My research interests include LLM and its application in Science(AI4S), especial
 News
 ======
 * 2023/04: Graduate from Tongji University, Excellent Graduate of Tongji University.
-  
+
+
 <p align="center">
-<a href="https://clustrmaps.com/site/1bx0c"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=CvMTMHAaE26zdid-IC6cW4pYtPFbxAIUvD1MDAZOGLc&cl=ffffff" /></a>
+  <a href='https://clustrmaps.com/site/1bx0c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=360&t=tt&d=CvMTMHAaE26zdid-IC6cW4pYtPFbxAIUvD1MDAZOGLc'/></a>
 </p>
