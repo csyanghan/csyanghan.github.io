@@ -13,6 +13,7 @@ My research interests include LLM and its application in Science(AI4S), especial
 
 News
 ======
+* 2023/12: One paper was accepted to AAAI2024.
 * 2023/04: Graduate from Tongji University, Excellent Graduate of Tongji University.
 
 
