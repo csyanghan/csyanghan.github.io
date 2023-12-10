@@ -13,7 +13,7 @@ author_profile: true
 
 **[2023]**
 
-* SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research 
+* SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research    
   Liangtai Sun, **Yang Han**, Zihan Zhao, Da Ma, Zhennan Shen, Baocai Chen, Lu Chen, Kai Yu  
   AAAI 2024
 
