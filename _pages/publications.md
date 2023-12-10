@@ -13,6 +13,10 @@ author_profile: true
 
 **[2023]**
 
+* SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research 
+  Liangtai Sun, **Yang Han**, Zihan Zhao, Da Ma, Zhennan Shen, Baocai Chen, Lu Chen, Kai Yu  
+  AAAI 2024
+
 * Principal Graph Embedding Convolutional Recurrent Network for Traffic Flow Prediction  
   **Yang Han**, Shengjie Zhao, Hao Deng & Wenzhen Jia  
   Applied Intelligence
